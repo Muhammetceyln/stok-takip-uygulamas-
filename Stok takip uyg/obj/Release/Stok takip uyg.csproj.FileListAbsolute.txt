@@ -1,0 +1,18 @@
+C:\Users\Batuhan\Desktop\Staj\Stok takip uyg\Stok takip uyg\bin\Release\Stok takip uyg.exe.config
+C:\Users\Batuhan\Desktop\Staj\Stok takip uyg\Stok takip uyg\bin\Release\Stok takip uyg.exe
+C:\Users\Batuhan\Desktop\Staj\Stok takip uyg\Stok takip uyg\bin\Release\Stok takip uyg.pdb
+C:\Users\Batuhan\Desktop\Staj\Stok takip uyg\Stok takip uyg\obj\Release\Stok takip uyg.csproj.AssemblyReference.cache
+C:\Users\Batuhan\Desktop\Staj\Stok takip uyg\Stok takip uyg\obj\Release\Stok takip uyg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Batuhan\Desktop\Staj\Stok takip uyg\Stok takip uyg\obj\Release\Stok_takip_uyg.Form1.resources
+C:\Users\Batuhan\Desktop\Staj\Stok takip uyg\Stok takip uyg\obj\Release\Stok_takip_uyg.FRMMüşteriEkle.resources
+C:\Users\Batuhan\Desktop\Staj\Stok takip uyg\Stok takip uyg\obj\Release\Stok_takip_uyg.Kategori.resources
+C:\Users\Batuhan\Desktop\Staj\Stok takip uyg\Stok takip uyg\obj\Release\Stok_takip_uyg.Marka.resources
+C:\Users\Batuhan\Desktop\Staj\Stok takip uyg\Stok takip uyg\obj\Release\Stok_takip_uyg.Müşteri_Listele.resources
+C:\Users\Batuhan\Desktop\Staj\Stok takip uyg\Stok takip uyg\obj\Release\Stok_takip_uyg.Properties.Resources.resources
+C:\Users\Batuhan\Desktop\Staj\Stok takip uyg\Stok takip uyg\obj\Release\Stok_takip_uyg.SatışListele.resources
+C:\Users\Batuhan\Desktop\Staj\Stok takip uyg\Stok takip uyg\obj\Release\Stok_takip_uyg.ÜrünEkle.resources
+C:\Users\Batuhan\Desktop\Staj\Stok takip uyg\Stok takip uyg\obj\Release\Stok_takip_uyg.ÜrünListeleme.resources
+C:\Users\Batuhan\Desktop\Staj\Stok takip uyg\Stok takip uyg\obj\Release\Stok takip uyg.csproj.GenerateResource.cache
+C:\Users\Batuhan\Desktop\Staj\Stok takip uyg\Stok takip uyg\obj\Release\Stok takip uyg.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan\Desktop\Staj\Stok takip uyg\Stok takip uyg\obj\Release\Stok takip uyg.exe
+C:\Users\Batuhan\Desktop\Staj\Stok takip uyg\Stok takip uyg\obj\Release\Stok takip uyg.pdb
